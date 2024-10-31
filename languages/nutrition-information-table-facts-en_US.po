@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.0.9\n"
+
+msgid "Unidad de medida (g,ml,mg...)"
+msgstr "Measurement unit(oz,mg...)"
+
+msgid "Valor medio (Cantidad)"
+msgstr "Average value (Quantity)"
+
+msgid "Información Nutricional"
+msgstr "Nutritional information"
+
+msgid "Valor energético"
+msgstr "Energetic value"
+
+msgid "Valores medios por"
+msgstr "Average values ​​per"
+
+msgid "Valor diario"
+msgstr "Daily value"
+
+msgid "Kilocalorías (Kcal)"
+msgstr "Kilocalories (Kcal)"
+
+msgid "Grasas"
+msgstr "Fats"
+
+msgid "Grasas totales"
+msgstr "Total fats"
+
+msgid "Grasas saturadas"
+msgstr "Saturated fats"
+
+msgid "Grasas transgénicas"
+msgstr "Transgenic fats"
+
+msgid "Colesterol (mg)"
+msgstr "Cholesterol (mg)"
+
+msgid "Colesterol"
+msgstr "Cholesterol"
+
+msgid "Sal"
+msgstr "Salt"
+
+msgid "Sodio"
+msgstr "Sodium"
+
+msgid "Cloro"
+msgstr "Chlorine"
+
+msgid "Hidratos de carbono"
+msgstr "Carbohydrates"
+
+msgid "Fibra"
+msgstr "Fiber"
+
+msgid "Azúcares"
+msgstr "Sugars"
+
+msgid "Proteínas"
+msgstr "Proteins"
+
+msgid "Tabla nutricional"
+msgstr "Nutritional table"
+
+msgid "Nutrición"
+msgstr "Nutrition"
+
+msgid "Añadir nueva"
+msgstr "Add new"
+
+msgid "Añadir nueva tabla"
+msgstr "Add new table"
+
+msgid "Editar tabla"
+msgstr "Edit table"
+
+msgid "Todas las tablas"
+msgstr "All tables"
+
+msgid "Ver tabla"
+msgstr "View table"
+
+msgid "Buscar tabla"
+msgstr "Find table"
+
+msgid "No se ha encontrado la tabla"
+msgstr "The table was not found"
+
+msgid "No se han encontrado en la papelera"
+msgstr "Not found in the trash"
+
+msgid "Opciones de la tabla nutricional"
+msgstr "Nutritional table options"
+
+msgid "Nombre"
+msgstr "Name"
+
+msgid "Página"
+msgstr "Page"
+
+msgid "Páginas"
+msgstr "Pages"
+
+msgid "Selecciona una página..."
+msgstr "Select a page ..."
+
+msgid "Fecha"
+msgstr "Date"
+
+msgid "El porcentaje de valores diarios se basa en una dieta de 2,000 calorías. Sus valores diarios pueden ser más altos o más bajos según sus necesidades calóricas (Edad, peso, altura, ejercicio, etc.)"
+msgstr "The percentage of daily values ​​is based on a 2,000-calorie diet. Your daily values ​​may be higher or lower according to your caloric needs (Age, weight, height, exercise, etc.)"
